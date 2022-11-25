@@ -1,0 +1,24 @@
+body{
+   font-family: Verdana, Geneva, Tahoma, sans-serif; 
+   background-color: darkcyan;
+
+}
+table, td, tr{
+    border: 1px solid black;
+}
+
+h1 {
+    font-size: 50 px;
+    color:darkslategrey;
+    text-align: center;
+}
+
+td{
+    margin-left: 20 px;
+    margin-right: 20 px;
+    text-align: center;
+}
+
+p {
+    text-indent: 2cm;
+}
